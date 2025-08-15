@@ -59,4 +59,4 @@ Advanced SQL queries and Excel dashboards for data analysis and reporting.
 ---
 
 📫 **Let's Connect:**  
-[LinkedIn](https://www.linkedin.com/in/abdelrahman-elmasryds/) | [GitHub](https://github.com/YourUsername) | Email: your@email.com
+[LinkedIn](https://www.linkedin.com/in/abdelrahman-elmasryds/) | [GitHub](https://github.com/abdelrahman-mohamed85) | Email: abdelrahmanelmasry854@gmail.com
