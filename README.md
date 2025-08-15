@@ -1,14 +1,14 @@
-# 👋 Hello! I'm Abdelrahman Almasry
+# 👋 Hello! I'm Abdelrahman Mohammed Elmasry
 
-🎓 Computer Engineering Student  
-💡 Junior Data Scientist | AI Developer | Python – SQL – Power BI  
+🎓 Computer Engineering Student.  
+💡 Junior Data Scientist | AI Developer | Python – SQL – Power BI - Excel . 
 🚀 Passionate about transforming raw data into AI-driven insights and business value.
 
 ---
 
 ## 🔍 About Me
 - 🤖 I specialize in **AI model development**, **data analysis**, and **storytelling dashboards**.  
-- 🛠️ Tools of the trade: **Python** (Pandas, NumPy, Scikit-learn, TensorFlow), **Power BI**, **SQL**.  
+- 🛠️ Tools of the trade: **Python** (Pandas, NumPy, Scikit-learn, TensorFlow), **Power BI**, **SQL**, **Excel**.  
 - 📊 I enjoy cleaning messy datasets, building predictive models, and delivering actionable insights.  
 - 🌱 Always learning new trends in **AI, Data Science, and Analytics**.
 
@@ -50,9 +50,11 @@ Advanced SQL queries and Excel dashboards for data analysis and reporting.
 ---
 
 ## 📚 Currently Learning
+- Improving Power BI & DAX skills  
 - Deep Learning Optimization  
-- Advanced DAX for Power BI  
-- Deployment of ML Models on Cloud Platforms
+- Deployment of ML Models on Cloud Platforms  
+- Enhancing SQL skills for data analysis
+
 
 ---
 
