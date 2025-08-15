@@ -50,7 +50,7 @@ Generates text embeddings from product reviews for clustering, semantic search, 
 Advanced SQL queries and Excel dashboards for data analysis and reporting.
 **Tools:** SQL Server, Excel
 
-### 💼 [Task Employee Salaries](https://github.com/abdelrahman-mohamed85/Task_Employee_Salaries)
+### 💼 [Employee Salaries](https://github.com/abdelrahman-mohamed85/Employee_Salaries)
 Analyzes employee salary data, exploring trends, distributions, and key factors affecting compensation.
 **Tools:** Python, Pandas, Matplotlib
 
