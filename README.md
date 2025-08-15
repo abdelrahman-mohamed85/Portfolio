@@ -1,7 +1,8 @@
 # 👋 Hello! I'm Abdelrahman Mohammed Elmasry
 
 🎓 Computer Engineering Student.  
-💡 Junior Data Scientist | AI Developer | Python – SQL – Power BI - Excel . 
+💡 Junior Data Scientist | AI Developer | Python – SQL – Power BI - Excel 
+ 
 🚀 Passionate about transforming raw data into AI-driven insights and business value.
 
 ---
